@@ -11,3 +11,28 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.Container{
+  height: 100vh;
+  background-color: aqua;
+}
+
+.main{
+  height: 80%;
+  width: 80%;
+  margin: auto;
+}
+
+input{
+  width: 80%;
+  padding: 0.5rem;
+  font-size: larger;
+  margin: .5rem;
+  text-align: end;
+}
+
+.btn{
+  padding: 1rem;
+  margin: .2rem;
+  font-size: larger;
+}
